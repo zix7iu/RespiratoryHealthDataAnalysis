@@ -1,0 +1,409 @@
+State,Year,Number of Deaths,Adjusted Death Rate
+Alabama,2021,67.0,11.6
+Alaska,2021,11.0,
+Arizona,2021,89.0,10.3
+Arkansas,2021,37.0,11.2
+California,2021,352.0,8.2
+Colorado,2021,49.0,7.6
+Connecticut,2021,35.0,8.5
+Delaware,2021,15.0,
+District of Columbia,2021,14.0,
+Florida,2021,204.0,8.0
+Georgia,2021,107.0,9.4
+Hawaii,2021,24.0,13.7
+Idaho,2021,16.0,
+Illinois,2021,124.0,9.1
+Indiana,2021,70.0,9.4
+Iowa,2021,39.0,11.1
+Kansas,2021,37.0,12.5
+Kentucky,2021,22.0,4.0
+Louisiana,2021,45.0,9.3
+Maine,2021,,
+Maryland,2021,79.0,11.2
+Massachusetts,2021,78.0,9.8
+Michigan,2021,94.0,8.6
+Minnesota,2021,58.0,8.5
+Mississippi,2021,45.0,15.3
+Missouri,2021,75.0,11.5
+Montana,2021,,
+Nebraska,2021,25.0,11.4
+Nevada,2021,28.0,8.3
+New Hampshire,2021,11.0,
+New Jersey,2021,119.0,11.8
+New Mexico,2021,26.0,10.3
+New York,2021,248.0,10.6
+North Carolina,2021,108.0,8.9
+North Dakota,2021,10.0,
+Ohio,2021,124.0,9.8
+Oklahoma,2021,47.0,11.0
+Oregon,2021,67.0,13.0
+Pennsylvania,2021,143.0,9.3
+Rhode Island,2021,,
+South Carolina,2021,71.0,12.3
+South Dakota,2021,,
+Tennessee,2021,83.0,11.3
+Texas,2021,295.0,10.1
+Utah,2021,24.0,8.6
+Vermont,2021,,
+Virginia,2021,85.0,9.1
+Washington,2021,85.0,10.1
+West Virginia,2021,16.0,
+Wisconsin,2021,67.0,10.1
+Wyoming,2021,10.0,
+Alabama,2020,63.0,12.2
+Alaska,2020,15.0,
+Arizona,2020,121.0,14.6
+Arkansas,2020,33.0,10.6
+California,2020,446.0,10.4
+Colorado,2020,58.0,9.0
+Connecticut,2020,43.0,10.0
+Delaware,2020,13.0,
+District of Columbia,2020,14.0,
+Florida,2020,227.0,8.9
+Georgia,2020,119.0,10.8
+Hawaii,2020,30.0,17.5
+Idaho,2020,23.0,11.1
+Illinois,2020,177.0,13.1
+Indiana,2020,79.0,10.6
+Iowa,2020,46.0,13.2
+Kansas,2020,35.0,11.3
+Kentucky,2020,42.0,8.7
+Louisiana,2020,47.0,9.5
+Maine,2020,15.0,
+Maryland,2020,81.0,11.9
+Massachusetts,2020,84.0,10.3
+Michigan,2020,132.0,12.4
+Minnesota,2020,88.0,13.0
+Mississippi,2020,58.0,18.2
+Missouri,2020,59.0,9.2
+Montana,2020,,
+Nebraska,2020,27.0,11.5
+Nevada,2020,46.0,14.3
+New Hampshire,2020,12.0,
+New Jersey,2020,138.0,13.1
+New Mexico,2020,39.0,16.0
+New York,2020,333.0,14.6
+North Carolina,2020,126.0,10.5
+North Dakota,2020,,
+Ohio,2020,144.0,11.3
+Oklahoma,2020,63.0,15.8
+Oregon,2020,57.0,12.0
+Pennsylvania,2020,166.0,11.0
+Rhode Island,2020,11.0,
+South Carolina,2020,81.0,13.6
+South Dakota,2020,14.0,
+Tennessee,2020,92.0,12.2
+Texas,2020,249.0,8.5
+Utah,2020,30.0,9.4
+Vermont,2020,,
+Virginia,2020,120.0,12.2
+Washington,2020,109.0,13.1
+West Virginia,2020,19.0,
+Wisconsin,2020,85.0,12.7
+Wyoming,2020,11.0,
+Alabama,2019,58.0,11.1
+Alaska,2019,,
+Arizona,2019,87.0,10.9
+Arkansas,2019,36.0,11.3
+California,2019,377.0,8.7
+Colorado,2019,54.0,8.9
+Connecticut,2019,43.0,10.3
+Delaware,2019,,
+District of Columbia,2019,,
+Florida,2019,199.0,7.9
+Georgia,2019,115.0,10.5
+Hawaii,2019,25.0,13.8
+Idaho,2019,18.0,
+Illinois,2019,171.0,12.2
+Indiana,2019,86.0,12.0
+Iowa,2019,54.0,14.9
+Kansas,2019,31.0,9.2
+Kentucky,2019,32.0,7.3
+Louisiana,2019,40.0,7.9
+Maine,2019,17.0,
+Maryland,2019,77.0,11.6
+Massachusetts,2019,80.0,10.0
+Michigan,2019,106.0,9.9
+Minnesota,2019,78.0,12.6
+Mississippi,2019,58.0,18.1
+Missouri,2019,60.0,9.0
+Montana,2019,10.0,
+Nebraska,2019,36.0,15.9
+Nevada,2019,26.0,8.5
+New Hampshire,2019,10.0,
+New Jersey,2019,113.0,11.4
+New Mexico,2019,25.0,10.2
+New York,2019,287.0,12.9
+North Carolina,2019,93.0,8.1
+North Dakota,2019,,
+Ohio,2019,123.0,9.2
+Oklahoma,2019,50.0,11.9
+Oregon,2019,41.0,7.7
+Pennsylvania,2019,120.0,8.0
+Rhode Island,2019,11.0,
+South Carolina,2019,50.0,8.4
+South Dakota,2019,,
+Tennessee,2019,70.0,9.9
+Texas,2019,205.0,7.1
+Utah,2019,25.0,9.4
+Vermont,2019,10.0,
+Virginia,2019,95.0,10.1
+Washington,2019,82.0,9.5
+West Virginia,2019,15.0,
+Wisconsin,2019,79.0,11.4
+Wyoming,2019,,
+Alabama,2018,61.0,11.0
+Alaska,2018,14.0,
+Arizona,2018,92.0,11.4
+Arkansas,2018,31.0,9.5
+California,2018,387.0,8.9
+Colorado,2018,46.0,7.7
+Connecticut,2018,42.0,9.7
+Delaware,2018,12.0,
+District of Columbia,2018,10.0,
+Florida,2018,211.0,8.1
+Georgia,2018,98.0,9.2
+Hawaii,2018,34.0,20.6
+Idaho,2018,19.0,
+Illinois,2018,137.0,9.9
+Indiana,2018,73.0,9.9
+Iowa,2018,41.0,11.5
+Kansas,2018,29.0,8.8
+Kentucky,2018,27.0,5.8
+Louisiana,2018,55.0,11.3
+Maine,2018,13.0,
+Maryland,2018,49.0,7.3
+Massachusetts,2018,67.0,8.3
+Michigan,2018,98.0,9.0
+Minnesota,2018,62.0,9.4
+Mississippi,2018,51.0,15.5
+Missouri,2018,84.0,12.9
+Montana,2018,10.0,
+Nebraska,2018,23.0,10.3
+Nevada,2018,32.0,10.8
+New Hampshire,2018,15.0,
+New Jersey,2018,93.0,9.0
+New Mexico,2018,20.0,8.0
+New York,2018,267.0,11.7
+North Carolina,2018,94.0,8.3
+North Dakota,2018,,
+Ohio,2018,124.0,9.3
+Oklahoma,2018,38.0,8.7
+Oregon,2018,58.0,11.4
+Pennsylvania,2018,135.0,8.4
+Rhode Island,2018,,
+South Carolina,2018,60.0,10.4
+South Dakota,2018,,
+Tennessee,2018,77.0,10.3
+Texas,2018,215.0,7.7
+Utah,2018,30.0,10.9
+Vermont,2018,,
+Virginia,2018,92.0,9.9
+Washington,2018,86.0,10.4
+West Virginia,2018,20.0,8.2
+Wisconsin,2018,71.0,10.1
+Wyoming,2018,,
+Alabama,2017,74.0,13.7
+Alaska,2017,,
+Arizona,2017,92.0,11.7
+Arkansas,2017,32.0,9.4
+California,2017,399.0,9.3
+Colorado,2017,46.0,7.7
+Connecticut,2017,38.0,9.0
+Delaware,2017,14.0,
+District of Columbia,2017,,
+Florida,2017,179.0,7.0
+Georgia,2017,108.0,10.1
+Hawaii,2017,24.0,13.4
+Idaho,2017,27.0,13.8
+Illinois,2017,149.0,10.9
+Indiana,2017,78.0,11.0
+Iowa,2017,32.0,8.8
+Kansas,2017,43.0,12.2
+Kentucky,2017,32.0,6.6
+Louisiana,2017,39.0,8.2
+Maine,2017,16.0,
+Maryland,2017,68.0,10.0
+Massachusetts,2017,71.0,8.9
+Michigan,2017,119.0,10.3
+Minnesota,2017,55.0,8.0
+Mississippi,2017,47.0,14.3
+Missouri,2017,68.0,10.1
+Montana,2017,12.0,
+Nebraska,2017,23.0,10.9
+Nevada,2017,32.0,9.5
+New Hampshire,2017,17.0,
+New Jersey,2017,110.0,11.0
+New Mexico,2017,41.0,18.2
+New York,2017,256.0,11.6
+North Carolina,2017,116.0,10.9
+North Dakota,2017,11.0,
+Ohio,2017,135.0,10.5
+Oklahoma,2017,54.0,13.4
+Oregon,2017,65.0,12.8
+Pennsylvania,2017,132.0,8.7
+Rhode Island,2017,,
+South Carolina,2017,69.0,12.4
+South Dakota,2017,12.0,
+Tennessee,2017,72.0,10.2
+Texas,2017,232.0,8.3
+Utah,2017,31.0,11.5
+Vermont,2017,11.0,
+Virginia,2017,71.0,7.5
+Washington,2017,105.0,13.0
+West Virginia,2017,24.0,10.6
+Wisconsin,2017,59.0,8.7
+Wyoming,2017,,
+Alabama,2016,48.0,9.1
+Alaska,2016,,
+Arizona,2016,108.0,14.2
+Arkansas,2016,45.0,14.3
+California,2016,391.0,9.3
+Colorado,2016,46.0,8.3
+Connecticut,2016,44.0,11.1
+Delaware,2016,11.0,
+District of Columbia,2016,10.0,
+Florida,2016,184.0,7.5
+Georgia,2016,93.0,9.2
+Hawaii,2016,15.0,
+Idaho,2016,21.0,11.3
+Illinois,2016,149.0,10.5
+Indiana,2016,55.0,7.8
+Iowa,2016,34.0,9.3
+Kansas,2016,41.0,12.6
+Kentucky,2016,48.0,10.2
+Louisiana,2016,42.0,8.6
+Maine,2016,,
+Maryland,2016,79.0,12.1
+Massachusetts,2016,86.0,10.9
+Michigan,2016,93.0,8.6
+Minnesota,2016,76.0,12.3
+Mississippi,2016,65.0,21.0
+Missouri,2016,73.0,11.7
+Montana,2016,16.0,
+Nebraska,2016,28.0,12.9
+Nevada,2016,37.0,12.4
+New Hampshire,2016,11.0,
+New Jersey,2016,102.0,10.3
+New Mexico,2016,27.0,12.8
+New York,2016,273.0,12.5
+North Carolina,2016,103.0,9.9
+North Dakota,2016,11.0,
+Ohio,2016,133.0,10.0
+Oklahoma,2016,43.0,10.8
+Oregon,2016,75.0,16.0
+Pennsylvania,2016,128.0,8.2
+Rhode Island,2016,,
+South Carolina,2016,60.0,11.0
+South Dakota,2016,16.0,
+Tennessee,2016,78.0,11.4
+Texas,2016,196.0,7.2
+Utah,2016,36.0,14.5
+Vermont,2016,13.0,
+Virginia,2016,81.0,9.2
+Washington,2016,78.0,9.8
+West Virginia,2016,25.0,12.6
+Wisconsin,2016,66.0,10.0
+Wyoming,2016,,
+Alabama,2015,52.0,9.8
+Alaska,2015,,
+Arizona,2015,76.0,10.0
+Arkansas,2015,30.0,9.8
+California,2015,393.0,9.5
+Colorado,2015,46.0,8.5
+Connecticut,2015,48.0,11.1
+Delaware,2015,13.0,
+District of Columbia,2015,13.0,
+Florida,2015,175.0,7.4
+Georgia,2015,92.0,9.1
+Hawaii,2015,17.0,
+Idaho,2015,21.0,11.6
+Illinois,2015,157.0,11.6
+Indiana,2015,90.0,12.9
+Iowa,2015,41.0,10.7
+Kansas,2015,29.0,9.6
+Kentucky,2015,38.0,7.8
+Louisiana,2015,47.0,9.3
+Maine,2015,11.0,
+Maryland,2015,79.0,12.2
+Massachusetts,2015,84.0,10.2
+Michigan,2015,112.0,10.3
+Minnesota,2015,61.0,9.8
+Mississippi,2015,52.0,16.0
+Missouri,2015,72.0,11.4
+Montana,2015,12.0,
+Nebraska,2015,36.0,17.0
+Nevada,2015,24.0,8.2
+New Hampshire,2015,16.0,
+New Jersey,2015,116.0,11.6
+New Mexico,2015,26.0,12.1
+New York,2015,295.0,13.1
+North Carolina,2015,96.0,9.0
+North Dakota,2015,,
+Ohio,2015,159.0,12.3
+Oklahoma,2015,52.0,12.9
+Oregon,2015,53.0,11.2
+Pennsylvania,2015,155.0,10.2
+Rhode Island,2015,,
+South Carolina,2015,57.0,10.5
+South Dakota,2015,13.0,
+Tennessee,2015,64.0,8.9
+Texas,2015,241.0,9.1
+Utah,2015,40.0,16.0
+Vermont,2015,11.0,
+Virginia,2015,90.0,10.3
+Washington,2015,88.0,11.5
+West Virginia,2015,25.0,12.5
+Wisconsin,2015,66.0,9.8
+Wyoming,2015,,
+Alabama,2014,57.0,10.7
+Alaska,2014,,
+Arizona,2014,86.0,11.7
+Arkansas,2014,33.0,11.0
+California,2014,407.0,10.0
+Colorado,2014,41.0,7.8
+Connecticut,2014,36.0,8.7
+Delaware,2014,11.0,
+District of Columbia,2014,,
+Florida,2014,191.0,8.6
+Georgia,2014,96.0,9.9
+Hawaii,2014,24.0,14.6
+Idaho,2014,22.0,13.0
+Illinois,2014,167.0,12.2
+Indiana,2014,73.0,10.3
+Iowa,2014,54.0,13.7
+Kansas,2014,27.0,8.4
+Kentucky,2014,35.0,7.5
+Louisiana,2014,61.0,12.4
+Maine,2014,14.0,
+Maryland,2014,87.0,13.6
+Massachusetts,2014,76.0,9.6
+Michigan,2014,94.0,8.7
+Minnesota,2014,66.0,10.9
+Mississippi,2014,48.0,14.5
+Missouri,2014,89.0,13.7
+Montana,2014,,
+Nebraska,2014,30.0,13.9
+Nevada,2014,25.0,8.2
+New Hampshire,2014,14.0,
+New Jersey,2014,111.0,10.9
+New Mexico,2014,28.0,12.2
+New York,2014,302.0,14.3
+North Carolina,2014,106.0,10.0
+North Dakota,2014,10.0,
+Ohio,2014,116.0,9.1
+Oklahoma,2014,56.0,13.6
+Oregon,2014,77.0,16.7
+Pennsylvania,2014,149.0,9.9
+Rhode Island,2014,,
+South Carolina,2014,74.0,14.7
+South Dakota,2014,10.0,
+Tennessee,2014,64.0,9.3
+Texas,2014,212.0,8.3
+Utah,2014,31.0,12.5
+Vermont,2014,16.0,
+Virginia,2014,103.0,12.0
+Washington,2014,93.0,12.6
+West Virginia,2014,19.0,
+Wisconsin,2014,77.0,11.9
+Wyoming,2014,,
