@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
     background: #f4f4f9;
@@ -15,11 +16,12 @@ body {
 }
 
 header {
-    background: #007BFF;
+    background: #303069; 
     color: #ffffff;
-    padding: 10px 20px;
-    text-align: center;
+    text-align: left; 
+    padding: 40px 20px;
     border-radius: 5px;
+    height: 100px;
 }
 
 section {
@@ -28,6 +30,16 @@ section {
 
 #asthmaMap {
     flex: 1; /* Take up the full space available */
+}
+
+#genderAsthmaChart {
+    width: 100%; 
+    height: auto;
+}
+
+#copdMortalityChart {
+    width: 100%; 
+    height: auto;
 }
 
 .legend-title {
@@ -68,6 +80,7 @@ circle {
 }
 
 
+
 svg path {
     stroke: #fff;
     stroke-width: 2;
@@ -94,4 +107,20 @@ svg path:hover {
 
 .year-btn:hover, .year-btn.active {
     background-color: #e9e9e9;
+}
+
+h1{
+    color: #f4f4f4;
+}
+
+h2 {
+    color: #333;
+}
+
+.hidden {
+    display: none;
+}
+
+.notes button {
+    cursor: pointer;
 }

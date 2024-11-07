@@ -8,11 +8,11 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-@app.route('/asthma-data')
-def asthma_data():
-    df = pd.read_csv('/Users/smiie/Desktop/RespiratoryHealth/Dashboard/data/asthma_data.csv')
-    yearly_data = df.groupby('Year')['Number With Current Asthma'].sum().reset_index()
-    return jsonify(yearly_data.to_dict(orient='records'))
+@app.route('/gender-asthma-data')
+def gender_asthma_data():
+    df = pd.read_csv('./data/life_long_asthma.csv')
+    df.sort_values('Year', ascending=True, inplace=True)
+    return jsonify(df.to_dict(orient='records'))
 
 @app.route('/asthma-map-data')
 def asthma_map_data():
@@ -28,6 +28,13 @@ def asthma_map_data():
     except Exception as e:
         print(e)  # Print out the error if any
         return jsonify({"error": str(e)}), 500
+
+@app.route('/copd-mortality-data')
+def copd_mortality_data():
+    df = pd.read_csv('./data/State_COPD_mortality_2021.csv')
+    # Assuming the column for mortality rate is named 'Age-Adjusted Mortality (per 100,000)'
+    df = df.sort_values(by='Age-Adjusted Mortality (per 100,000)', ascending=False).head(10)
+    return jsonify(df.to_dict(orient='records'))
 
 
 if __name__ == '__main__':
