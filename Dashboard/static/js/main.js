@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     const tooltipText = `<strong>State:</strong> ${info['State']}<br/>
                                          <strong>Recorded Asthma Cases:</strong> ${info['Number With Current Asthma'].toLocaleString()}<br/>
                                          <strong>Percent in Population:</strong> ${info['Percent With Current Asthma']}%<br/>
-                                         <strong>Death Rate per Million:</strong> ${info['Adjusted Death Rate']}%`;
+                                         <strong>Death Rate per Million:</strong> ${info['Adjusted Death Rate']}`;
                     showTooltip(e, tooltipText);
                 } else {
                     showTooltip(e, "Data not available for this state");
