@@ -17,7 +17,7 @@ Access the interactive dashboard deployed on Heroku to explore data visualizatio
 
 ## Getting Started
 
-To run the notebooks and the dashboard locally, you need to install the required Python packages:
+To run the dashboard locally, you need to install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
